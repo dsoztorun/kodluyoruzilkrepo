@@ -10,8 +10,8 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde  oluşturduğ
 git clone https://github.com/dsoztorun/kodluyoruzilkrepo.git
 ````
 
-![ss1](project_screenshots/01_Github.png)
-![ss2](project_screenshots/02_Cloned.png)
+![GitHub Repo Sayfası](project_screenshots/01_Github.png)
+![Klonlanmış klasör görünümü](project_screenshots/02_Cloned.png)
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -23,13 +23,13 @@ cd kodluyoruzilkrepo
 code .
 ````
 
-![ss3](project_screenshots/03_Readme.png)
+![Readme](project_screenshots/03_Readme.png)
 
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-![ss4](project_screenshots/04_git.png)
+![Git işlemleri](project_screenshots/04_git.png)
 
 ## License
 
